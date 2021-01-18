@@ -1,0 +1,17 @@
+body {
+  font-family: cursive;
+  font-size: 12pt;
+  color: blue;
+}
+
+h2 {
+  color: yellow;
+  font-family: fantasy;
+
+}
+
+p{
+  font-size: 18pt;
+  text-align: justify;
+  font-weight: bold;
+}
