@@ -1,0 +1,22 @@
+body {
+  font-family: cursive;
+  font-size: 12pt;
+  color: blue;
+}
+
+.header__title {
+  color: yellow;
+  font-size: 20pt;
+  font-family: fantasy;
+}
+
+.header__content{
+font-family: "Oswald", sans-serif;
+  font-size: 18pt;
+  text-align: justify;
+}
+
+.header__content_two{
+  color: green;
+  font-size: 10pt;
+}
