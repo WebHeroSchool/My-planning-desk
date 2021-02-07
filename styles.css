@@ -4,14 +4,19 @@ body {
   color: blue;
 }
 
-h2 {
+.header__title {
   color: yellow;
+  font-size: 20pt;
   font-family: fantasy;
-
 }
 
-p{
-font-family: 'Oswald';
+.header__content{
+font-family: "Oswald", sans-serif;
   font-size: 18pt;
   text-align: justify;
+}
+
+.header__content_two{
+  color: green;
+  font-size: 10pt;
 }
