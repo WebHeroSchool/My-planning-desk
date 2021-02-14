@@ -4,19 +4,31 @@ body {
   color: blue;
 }
 
-.header__title {
+.main-section {
   color: yellow;
   font-size: 20pt;
   font-family: fantasy;
-}
+  }
 
-.header__content{
+.main__content{
 font-family: "Oswald", sans-serif;
   font-size: 18pt;
   text-align: justify;
 }
 
-.header__content_two{
+.main-content__title{
+  color: plum;
+  font-style: oblique;
+  text-align: center;
+}
+
+.main-content__subtitle{
   color: green;
-  font-size: 10pt;
+  font-size: 16pt;
+}
+
+.main-content__subtitle_small{
+  color: gray;
+  font-size: 8pt;
+  font-family: cursive;
 }
